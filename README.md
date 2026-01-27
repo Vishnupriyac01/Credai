@@ -2,4 +2,5 @@
 **helloWorld.java**:programe to print **Hello, World**
 **arrayList.java**:programe to implement arraylist
 **LinkedListExample.java**:Programme to implement LinkedList
-**StackExample**:Programme to implement Stack
+**StackExample.java**:Programme to implement Stack
+**QueueExample.java**:Programme to implement Queue
